@@ -1,6 +1,6 @@
-# Table of contents
+<!-- # Table of contents
 
-* [关于](README.md)
+* [关于](README.md) -->
 
 ## 章节 I - 前言
 
@@ -34,7 +34,7 @@
 * [远程隧道网络](part-iii-advanced/yuan-cheng-sui-dao-wang-luo/README.md)
   * [虚拟网络](part-iii-advanced/yuan-cheng-sui-dao-wang-luo/xu-ni-wang-luo.md)
 
-## 章节 Ⅳ - 应用开发
+<!-- ## 章节 Ⅳ - 应用开发
 
 * [开发工具](part-iiii/kai-fa-gong-ju/README.md)
   * [WEB IDE](part-iiii/kai-fa-gong-ju/web-ide.md)
@@ -42,5 +42,5 @@
 * [创建你的第一个IOT应用](part-iiii/chuang-jian-ni-de-di-yi-ge-iot-ying-yong/README.md)
   * [云端创建应用](part-iiii/chuang-jian-ni-de-di-yi-ge-iot-ying-yong/yun-duan-chuang-jian-ying-yong.md)
   * [网关中创建应用](part-iiii/chuang-jian-ni-de-di-yi-ge-iot-ying-yong/zai-xian-kai-fa.md)
-  * [Visual Studio Code 开发应用](part-iiii/chuang-jian-ni-de-di-yi-ge-iot-ying-yong/untitled.md)
+  * [Visual Studio Code 开发应用](part-iiii/chuang-jian-ni-de-di-yi-ge-iot-ying-yong/untitled.md) -->
 
