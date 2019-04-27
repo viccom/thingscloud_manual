@@ -31,7 +31,8 @@
 * [应用调试](part-iii-advanced/untitled/README.md)
   * [网关日志](part-iii-advanced/untitled/wang-guan-ri-zhi.md)
   * [通讯报文](part-iii-advanced/untitled/tong-xun-bao-wen.md)
-* [远程隧道网络](part-iii-advanced/yuan-cheng-sui-dao-wang-luo/README.md)
+* [远程编程](part-iii-advanced/yuan-cheng-sui-dao-wang-luo/README.md)
+  * [虚拟串口](part-iii-advanced/yuan-cheng-sui-dao-wang-luo/xu-ni-chuan-kou.md)
   * [虚拟网络](part-iii-advanced/yuan-cheng-sui-dao-wang-luo/xu-ni-wang-luo.md)
 
 <!-- ## 章节 Ⅳ - 应用开发
