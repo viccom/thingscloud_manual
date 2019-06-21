@@ -14,26 +14,31 @@
 ## 章节 II - 基本应用
 
 * [添加第一台IOT网关](part-ii-advanced/tian-jia-di-yi-tai-iot-wang-guan.md)
-* [为IOT网关增加应用](part-ii-advanced/wei-iot-wang-guan-zeng-jia-ying-yong.md)
-* [修改IOT应用配置](part-ii-advanced/xiu-gai-iot-ying-yong-pei-zhi.md)
-* [采集设备数据](part-ii-advanced/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju.md)
+* [给IOT网关安装应用](part-ii-advanced/wei-iot-wang-guan-zeng-jia-ying-yong.md)
+* [举例1：采集Modbus 仿真数据](part-ii-advanced/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju.md)
+* [举例2：采集PLC S7-1200数据](part-ii-advanced/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju-2.md)
 * [浏览采集的数据](part-ii-advanced/lan-iot-ying-yong-cai-ji-de-shu-ju.md)
 * [将数据推送到平台](part-ii-advanced/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/README.md)
   * [将数据推送到ThingsCloud](part-ii-advanced/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-thingscloud.md)
   * [将数据推送到其他云平台](part-ii-advanced/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-qi-ta-yun-ping-tai.md)
+* [管理网关中的应用](part-ii-advanced/application-manager.md)
+* [修改网关中应用的配置](part-ii-advanced/xiu-gai-iot-ying-yong-pei-zhi.md)
 * [网关中的应用升级](part-ii-advanced/ying-yong-sheng-ji.md)
 * [删除网关中的应用](part-ii-advanced/shan-chu-iot-ying-yong.md)
 
 ## 章节 III - 进阶应用
 
-* [IOT网关调试模式](part-iii-advanced/untitled-1.md)
-* [应用修改](part-iii-advanced/untitled-2.md)
+* [网关高级设置](part-iii-advanced/untitled-1.md)
+* [调试模式](part-iii-advanced/untitled-2.md)
 * [应用调试](part-iii-advanced/untitled/README.md)
   * [网关日志](part-iii-advanced/untitled/wang-guan-ri-zhi.md)
   * [通讯报文](part-iii-advanced/untitled/tong-xun-bao-wen.md)
-* [远程编程](part-iii-advanced/yuan-cheng-sui-dao-wang-luo/README.md)
-  * [虚拟串口](part-iii-advanced/yuan-cheng-sui-dao-wang-luo/xu-ni-chuan-kou.md)
-  * [虚拟网络](part-iii-advanced/yuan-cheng-sui-dao-wang-luo/xu-ni-wang-luo.md)
+
+## 章节 Ⅳ - 扩展应用
+* [边缘计算介绍](part-iiii/bian-yuan-ji-suan/README.md)
+* [远程编程](part-iiii/yuan-cheng-sui-dao-wang-luo/README.md)
+  * [虚拟串口](part-iiii/yuan-cheng-sui-dao-wang-luo/xu-ni-chuan-kou.md)
+  * [虚拟网络](part-iiii/yuan-cheng-sui-dao-wang-luo/xu-ni-wang-luo.md)
 
 <!-- ## 章节 Ⅳ - 应用开发
 
