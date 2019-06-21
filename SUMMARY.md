@@ -13,18 +13,18 @@
 
 ## 章节 II - 基本应用
 
-* [添加第一台IOT网关](part-ii-advanced/tian-jia-di-yi-tai-iot-wang-guan.md)
-* [给IOT网关安装应用](part-ii-advanced/wei-iot-wang-guan-zeng-jia-ying-yong.md)
-* [举例1：采集Modbus 仿真数据](part-ii-advanced/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju.md)
-* [举例2：采集PLC S7-1200数据](part-ii-advanced/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju-2.md)
-* [浏览采集的数据](part-ii-advanced/lan-iot-ying-yong-cai-ji-de-shu-ju.md)
-* [将数据推送到平台](part-ii-advanced/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/README.md)
-  * [将数据推送到ThingsCloud](part-ii-advanced/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-thingscloud.md)
-  * [将数据推送到其他云平台](part-ii-advanced/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-qi-ta-yun-ping-tai.md)
-* [管理网关中的应用](part-ii-advanced/application-manager.md)
-* [修改网关中应用的配置](part-ii-advanced/xiu-gai-iot-ying-yong-pei-zhi.md)
-* [网关中的应用升级](part-ii-advanced/ying-yong-sheng-ji.md)
-* [删除网关中的应用](part-ii-advanced/shan-chu-iot-ying-yong.md)
+* [添加第一台IOT网关](part-ii-basic/tian-jia-di-yi-tai-iot-wang-guan.md)
+* [给IOT网关安装应用](part-ii-basic/wei-iot-wang-guan-zeng-jia-ying-yong.md)
+* [举例1：采集Modbus 仿真数据](part-ii-basic/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju.md)
+* [举例2：采集PLC S7-1200数据](part-ii-basic/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju-2.md)
+* [浏览采集的数据](part-ii-basic/lan-iot-ying-yong-cai-ji-de-shu-ju.md)
+* [将数据推送到平台](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/README.md)
+  * [将数据推送到ThingsCloud](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-thingscloud.md)
+  * [将数据推送到其他云平台](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-qi-ta-yun-ping-tai.md)
+* [管理网关中的应用](part-ii-basic/application-manager.md)
+* [修改网关中应用的配置](part-ii-basic/xiu-gai-iot-ying-yong-pei-zhi.md)
+* [网关中的应用升级](part-ii-basic/ying-yong-sheng-ji.md)
+* [删除网关中的应用](part-ii-basic/shan-chu-iot-ying-yong.md)
 
 ## 章节 III - 进阶应用
 
