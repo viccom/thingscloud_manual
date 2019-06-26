@@ -3,8 +3,8 @@
 * [1.1 简介](part-i-basic/jian-jie.md)
 * [1.2 使用方式](part-i-basic/shi-yong-fang-shi.md)
 * [1.3 准备工作](part-i-basic/zhun-bei/README.md)
-  * [IOT网关/虚拟IOT网关](part-i-basic/zhun-bei/iot-wang-guan-xu-ni-iot-wang-guan.md)
-  * [设备/模拟器](part-i-basic/zhun-bei/she-bei-mo-ni-qi.md)
+  * [1.3.1 IOT网关/虚拟IOT网关](part-i-basic/zhun-bei/iot-wang-guan-xu-ni-iot-wang-guan.md)
+  * [1.3.2 设备/模拟器](part-i-basic/zhun-bei/she-bei-mo-ni-qi.md)
 
 ## 章节 II - 基本应用
 
