@@ -22,9 +22,6 @@
   * [例子1：将数据推送到ThingsCloud](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-thingscloud.md)
   * [例子2：将数据推送到其他云平台](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-qi-ta-yun-ping-tai.md)
 * [管理网关中的应用](part-ii-basic/application-manager.md)
-  * [修改网关中应用的配置](part-ii-basic/xiu-gai-iot-ying-yong-pei-zhi.md)
-  * [网关中的应用升级](part-ii-basic/ying-yong-sheng-ji.md)
-  * [删除网关中的应用](part-ii-basic/shan-chu-iot-ying-yong.md)
 * [网关固件的升级](part-ii-basic/wang-guan-firmware-update.md)
 
 ## 章节 III - 进阶应用
@@ -32,8 +29,8 @@
 * [网关高级设置](part-iii-advanced/untitled-1.md)
 * [调试模式](part-iii-advanced/untitled-2.md)
 * [应用调试](part-iii-advanced/untitled/README.md)
-  * [网关日志](part-iii-advanced/untitled/wang-guan-ri-zhi.md)
-  * [通讯报文](part-iii-advanced/untitled/tong-xun-bao-wen.md)
+* [网关日志](part-iii-advanced/untitled/wang-guan-ri-zhi.md)
+* [通讯报文](part-iii-advanced/untitled/tong-xun-bao-wen.md)
 
 ## 章节 Ⅳ - 扩展应用
 * [边缘计算介绍](part-iiii/bian-yuan-ji-suan/README.md)
