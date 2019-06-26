@@ -10,12 +10,12 @@
 
 * [2.1 添加第一台IOT网关](part-ii-basic/tian-jia-di-yi-tai-iot-wang-guan.md)
 * [2.2 给IOT网关安装应用](part-ii-basic/wei-iot-wang-guan-zeng-jia-ying-yong.md)
-  * [举例1：采集Modbus 仿真数据](part-ii-basic/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju.md)
-  * [举例2：采集PLC S7-1200数据](part-ii-basic/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju-2.md)
+  * [2.2.1 举例1：采集Modbus 仿真数据](part-ii-basic/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju.md)
+  * [2.2.2 举例2：采集PLC S7-1200数据](part-ii-basic/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju-2.md)
 * [2.3 浏览采集的数据](part-ii-basic/lan-iot-ying-yong-cai-ji-de-shu-ju.md)
 * [2.4 将数据推送到平台](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/README.md)
-  * [例子1：将数据推送到ThingsCloud](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-thingscloud.md)
-  * [例子2：将数据推送到其他云平台](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-qi-ta-yun-ping-tai.md)
+  * [2.4.1 例子1：将数据推送到ThingsCloud](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-thingscloud.md)
+  * [2.4.2 例子2：将数据推送到其他云平台](part-ii-basic/tong-guo-iot-ying-yong-jiang-shu-ju-tui-song-dao-ping-tai/jiang-shu-ju-tui-song-dao-qi-ta-yun-ping-tai.md)
 * [2.5 管理网关中的应用](part-ii-basic/application-manager.md)
 * [2.6 网关固件的升级](part-ii-basic/wang-guan-firmware-update.md)
 
@@ -30,8 +30,8 @@
 ## 章节 Ⅳ - 扩展应用
 * [4.1 边缘计算介绍](part-iiii/bian-yuan-ji-suan/README.md)
 * [4.2 远程编程](part-iiii/yuan-cheng-sui-dao-wang-luo/README.md)
-  * [虚拟串口](part-iiii/yuan-cheng-sui-dao-wang-luo/xu-ni-chuan-kou.md)
-  * [虚拟网络](part-iiii/yuan-cheng-sui-dao-wang-luo/xu-ni-wang-luo.md)
+  * [4.2.1 虚拟串口](part-iiii/yuan-cheng-sui-dao-wang-luo/xu-ni-chuan-kou.md)
+  * [4.2.2 虚拟网络](part-iiii/yuan-cheng-sui-dao-wang-luo/xu-ni-wang-luo.md)
 
 <!-- ## 章节 Ⅳ - 应用开发
 
