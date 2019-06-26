@@ -1,7 +1,3 @@
-<!-- # Table of contents
-
-* [关于](README.md) -->
-
 ## 章节 I - 前言
 
 * [1.1 关于](part-i-basic/guan-yu.md)
