@@ -1,5 +1,6 @@
 ## 章节 I - 前言
 
+* [平台特性](README.md)
 * [1.1 简介](part-i-basic/jian-jie.md)
 * [1.2 使用方式](part-i-basic/shi-yong-fang-shi.md)
 * [1.3 准备工作](part-i-basic/zhun-bei/README.md)
