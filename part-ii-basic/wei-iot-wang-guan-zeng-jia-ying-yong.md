@@ -24,5 +24,5 @@
 ![](..\v1\part-ii\ThingsCloud_2019-06-24_12-27-59.png)
 
 接下来，以ModbusTCP模拟设备和西门子PLC S7-1200为例说明ThingsCLoud平台如何给ThingsLink安装应用。
-* [举例1：采集Modbus 仿真数据](part-ii-basic/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju.md)
-* [举例2：采集PLC S7-1200数据](part-ii-basic/tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju-2.md)
+* [举例1：采集Modbus 仿真数据](tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju.md)
+* [举例2：采集PLC S7-1200数据](tong-guo-iot-ying-yong-cai-ji-she-bei-shu-ju-2.md)
